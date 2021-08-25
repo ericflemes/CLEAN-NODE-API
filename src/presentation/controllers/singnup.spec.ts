@@ -1,4 +1,3 @@
-
 import { SignUpController } from './singnup'
 
 describe('SingUp Controller', () => {
