@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --PassWithNoTests --watch --strictNullChecks",
-    "test:staged": "jest --PassWithNoTests --strictNullChecks"
+    "test": "jest --PassWithNoTests --watch",
+    "test:staged": "jest --PassWithNoTests"
   },
   "repository": {
     "type": "git",
